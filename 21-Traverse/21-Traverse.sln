@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21-Traverse", "21-Traverse\21-Traverse.csproj", "{EEF31D26-6679-43FB-A76A-BDDF382E3EFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEF31D26-6679-43FB-A76A-BDDF382E3EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF31D26-6679-43FB-A76A-BDDF382E3EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF31D26-6679-43FB-A76A-BDDF382E3EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF31D26-6679-43FB-A76A-BDDF382E3EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF0A1BA5-D3AC-4D8C-926D-F41DB3EE2A8F}
+	EndGlobalSection
+EndGlobal
